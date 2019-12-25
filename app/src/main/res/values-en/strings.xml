@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="freelance_illustrator">Freelance Illustrator</string>
+    <string name="appreciations">Appreciations</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="artist">Artist</string>
+    <string name="year5">5 years experience of Digital Illustration</string>
+    <string name="available">Available to hire!</string>
+    <string name="portofolio">portofolio : www.dribbble.com/ekazaki</string>
+    <string name="follow">FOLLOW</string>
+    <string name="message">MESSAGE</string>
+</resources>
